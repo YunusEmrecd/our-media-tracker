@@ -1,2 +1,5 @@
-# our-media-tracker
-A personal WinForms-based tracker for our favorite movies, games, and books – built with love and C# ❤️
+## Not
+
+Designer dosyaları utanç sınırlarını zorladığı için bu repoya dahil edilmedi   
+Ancak uygulamanın çalışan hali 1 yılı aşkın süredir aktif olarak kullanılmakta ve genel kütüphane yönetimimizde bize başarıyla eşlik etmektedir.  
+Kodlar, yalnızca WinForms uygulamasının mantıksal işleyişini göstermek amacıyla paylaşılmıştır.
