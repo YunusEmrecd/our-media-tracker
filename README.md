@@ -1,6 +1,6 @@
-#### Not 
+## 🙈 Designer Dosyaları Nerede?
 
-Designer dosyaları utanç sınırlarını zorladığı için bu repoya dahil edilmedi.
+Designer dosyaları içerdiği fotoğrafların utanç sınırlarını zorlaması dolayısıyla bu repoya dahil edilmedi.
 
 Ancak uygulamanın çalışan hali 1 yılı aşkın süredir aktif olarak kullanılmakta ve genel kütüphane yönetimimizde bize başarıyla eşlik etmektedir.  
 
