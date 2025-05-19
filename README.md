@@ -4,4 +4,4 @@ Designer dosyaları içerdiği fotoğrafların utanç sınırlarını zorlaması
 
 Ancak uygulamanın çalışan hali 1 yılı aşkın süredir aktif olarak kullanılmakta ve genel kütüphane yönetimimizde bize başarıyla eşlik etmektedir.  
 
-Kodlar, yalnızca WinForms uygulamasının mantıksal işleyişini göstermek amacıyla paylaşılmıştır.
+Kodlar, yalnızca C# ile geliştirilmiş WinForms uygulamasının mantıksal işleyişini göstermek amacıyla paylaşılmıştır.
